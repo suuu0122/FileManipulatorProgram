@@ -26,5 +26,5 @@
 * [Pythonでリストや文字列を逆順に並べ替え](https://note.nkmk.me/python-reverse-reversed/)
 * [Pythonで文字列を置換](https://note.nkmk.me/python-str-replace-translate-re-sub/)
 * [exit・return プログラム終了・処理終了](https://pg-chain.com/python-exit-return)
-* [if __name__ == \“__main__\” とはなにか](https://aiacademy.jp/media/?p=1478)
+* [if __name__ == “__main__” とはなにか](https://aiacademy.jp/media/?p=1478)
 
