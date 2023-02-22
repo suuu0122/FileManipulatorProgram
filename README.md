@@ -7,10 +7,10 @@
 ## Methods
 | Method | USAGE |
 | ------ | ----- |
-| reverse | python3 file_manipulator reverse input.txt output.txt |
-| copy | python3 file_manipulator copy input.txt output.txt |
-| duplicate-contents | python3 file_manipulator duplicate-contents input.txt output.txt num_dup |
-| replace-string | python3 file_manipulator replace-string input.txt output.txt needle new_string |
+| reverse | python3 file_manipulator.py reverse input.txt output.txt |
+| copy | python3 file_manipulator.py copy input.txt output.txt |
+| duplicate-contents | python3 file_manipulator.py duplicate-contents input.txt output.txt num_dup |
+| replace-string | python3 file_manipulator.py replace-string input.txt output.txt needle new_string |
 <br />
 
 ## Learinig Matter
