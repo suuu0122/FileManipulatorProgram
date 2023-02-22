@@ -1,7 +1,7 @@
 # FileManipulatorProgram
 
 ## Overview
-簡単なファイル操作を行えるスクリプトです。コンピュータサイエンス学習サービスRecursionのアウトプットプロジェクト（File Manipulator Program）として取り組みました。
+簡単なファイル操作を行えるスクリプトです。コンピュータサイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットプロジェクト（File Manipulator Program）として取り組みました。
 <br />
 
 ## Methods
