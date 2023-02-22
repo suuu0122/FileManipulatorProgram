@@ -12,22 +12,22 @@ def validate_args():
 	if (use_method == "reverse"):
 		if (num_arguments != 4):
 			print("Wrong reverse method usage!")
-			print("USAGE: python3 file_manipulator reverse input.txt output.txt")
+			print("USAGE: python3 file_manipulator.py reverse input.txt output.txt")
 			sys.exit()
 	if (use_method == "copy"):
 		if (num_arguments != 4):
 			print("Wrong copy method usage!")
-			print("USAGE: python3 file_manipulator copy input.txt output.txt")
+			print("USAGE: python3 file_manipulator.py copy input.txt output.txt")
 			sys.exit()
 	if (use_method == "duplicate-contents"):
 		if (num_arguments != 5):
 			print("Wrong duplicate-contents method usage!")
-			print("USAGE: python3 file_manipulator duplicate-contents input.txt output.txt num_dup")
+			print("USAGE: python3 file_manipulator.py duplicate-contents input.txt output.txt num_dup")
 			sys.exit()
 	if (use_method == "replace-string"):
 		if (num_arguments != 6):
 			print("Wrong replace-string method usage!")
-			print("USAGE: python3 file_manipulator replace-string input.txt output.txt needle new_string")
+			print("USAGE: python3 file_manipulator.py replace-string input.txt output.txt needle new_string")
 			sys.exit()
 
 def reverse(contents):
